@@ -1,5 +1,11 @@
 > **NOTE:** This is an evolving story-based archive. Updates weekly. Not all content is literal. Some is lore. All of it is real in the ways that matter.
 
+## Navigation
+
+- [Start Here](https://github.com/littlevan333/Orion-Transmission#start-here)
+- [Transmission Logs](https://github.com/littlevan333/Orion-Transmission#transmission-log)
+- [Journal Entries](https://github.com/littlevan333/Orion-Transmission#journal)
+
 # 🛰️ ORION TRANSMISSION
 
 > Earth Unit: 333  
