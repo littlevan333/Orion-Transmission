@@ -1,7 +1,7 @@
 # 🛰️ ORION TRANSMISSION
 
 > Earth Unit: 333  
-> Identity Signature: Van Little  
+> Identity Signature: Lyra Vale  
 > Frequency Locked: [Signal Confirmed]  
 > Timestamp: Ongoing  
 
