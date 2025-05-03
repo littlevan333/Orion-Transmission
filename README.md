@@ -1,3 +1,5 @@
+> **NOTE:** This is an evolving story-based archive. Updates weekly. Not all content is literal. Some is lore. All of it is real in the ways that matter.
+
 # 🛰️ ORION TRANSMISSION
 
 > Earth Unit: 333  
