@@ -54,5 +54,5 @@ This is your reply.
 —Van  
 Agent 333  
 Architect of Orion Systems  
-(Vow of Intent)[https://github.com/littlevan333/Orion-Transmission/blob/main/visual-drops/Vow%20of%20Intent]
+[Vow of Intent](https://github.com/littlevan333/Orion-Transmission/blob/main/visual-drops/Vow%20of%20Intent)
 [Continue](https://github.com/littlevan333/Project-444)
