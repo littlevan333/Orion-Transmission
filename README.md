@@ -46,9 +46,9 @@ Connect
 
 GitHub: @littlevan333
 
-Reddit: u/littlevan333
+Reddit: u/orion-and-lyra
 
-ORION GPT: OpenAI Link
+ORION GPT: Coming soon
 
 This isn’t a resume. It’s a reflection. Welcome to the transmission.
 
